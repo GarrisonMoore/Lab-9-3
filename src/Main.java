@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Git test");
-        int x = 2;
-        System.out.println(x);
+        int x = 1;
+        System.out.println("error");
     }
 }
